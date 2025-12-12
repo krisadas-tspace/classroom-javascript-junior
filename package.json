@@ -1,0 +1,14 @@
+{
+  "name": "js-refactor-assessment",
+  "version": "1.0.0",
+  "description": "Refactor and fix the shopping cart",
+  "main": "src/cart.js",
+  "scripts": {
+    "test": "jest",
+    "test:grade": "jest evaluation/teacher.test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
