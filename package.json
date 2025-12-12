@@ -5,7 +5,7 @@
   "main": "src/cart.js",
   "scripts": {
     "test": "jest",
-    "test:grade": "jest evaluation/teacher.test.js"
+    "test:grade": "jest evaluation/teacher.test.js --colors"
   },
   "dependencies": {},
   "devDependencies": {
